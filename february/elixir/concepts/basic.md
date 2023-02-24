@@ -69,3 +69,18 @@ difference = Calculator.private_subtract(7, 2)
 # => ** (UndefinedFunctionError) function Calculator.private_subtract/2 is undefined or private
 #       Calculator.private_subtract(7, 2)
 ```
+
+#### Arity of functions (Aridade de funções)
+É comum referir-se a funções com a sua <i>aridade</i>. A <i>aridade</i> de uma função é o número de argumentos que ela aceita.
+
+```ex
+# add/3 because this function has three arguments, thus an arity of 3
+def add(x, y, z) do
+  x + y + z
+end
+```
+
+#### Biblioteca padrão
+Elixir tem uma biblioteca padrão muito rica e bem documentada. A documentação está disponível online em [hexdocs.pm/elixir](https://hexdocs.pm/elixir/Kernel.html#content). Guarde esse link, pois você usará bastante!
+
+A maioria dos tipos de dados embutidos tem um módulo correspondente que oferece funções para trabalhar com esses tipos de dados, por exemplo, há o módulo `Integer` para inteiros, modúlo `String` para strings, módulo `List` para listas e assim por diante.
