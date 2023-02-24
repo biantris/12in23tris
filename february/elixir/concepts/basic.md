@@ -41,7 +41,7 @@ sum = Calculator.add(1, 2)
 # => 3
 ```
 
-Explicando
+![image](https://user-images.githubusercontent.com/65451957/221311993-85118db5-4938-4b54-9500-f553701fcd96.png)
 
 A palavra-chave `defp` pode ser usada em vez de `def` para definir uma função <i>privada</i>. As funções privadas só podem ser usadas dentro do mesmo módulo que as definiu.
 
