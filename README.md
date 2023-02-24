@@ -1,6 +1,8 @@
-### 12in23tris
+<h1 align="center">
+    12in23tris
+</h1>
 
-The repository used to document the Exercism challenge #12in23
+The repository used to document the [Exercism](https://exercism.org/) challenge <b>#12in23</b>
 
 - link to challenge: [12in23](https://exercism.org/challenges/12in23)
 
