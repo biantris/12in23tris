@@ -14,3 +14,9 @@ message = "Success!" # Strings can be created by enclosing characters within dou
 
 #### Módulos
 Elixir é uma linguagem de programação funcional e requer que todas as funções nomeadas sejam definidas em um <i>módulo</i>. A palavra chave `defmodule` é usada para definir um módulo. Todos os módulos estão disponíveis para todos os outros módulos em tempo de execução e não requerem um <i>modificador</i> de acesso para torná-las visíveis para outras partes do programa. Um <i>módulo</i> é análogo a uma <i>classe</i> em outras linguagens de programação.
+
+```ex
+defmodule Calculator do
+  # ...
+end
+```
