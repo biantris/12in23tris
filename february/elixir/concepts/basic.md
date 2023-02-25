@@ -89,3 +89,9 @@ Um módulo notável é o `Kernel`. Ele fornece os recursos básicos sobre os qua
 
 #### Code comments
 Os comentários podem ser usados para deixar notas para outros desenvolvedores que estão lendo o código-fonte. Os comentários de linha única no Elixir são precedidos por `#`.
+
+#### Saber mais
+- [Getting Started guide - Basic Types](https://elixir-lang.org/getting-started/basic-types.html)
+- [Getting Started guide - Basic Operators](https://elixir-lang.org/getting-started/basic-operators.html)
+- [Basics - Elixir School](https://elixirschool.com/en/lessons/basics/basics/)
+- [Overview of the standard library](https://hexdocs.pm/elixir/Kernel.html#module-the-standard-library)
