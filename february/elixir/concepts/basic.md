@@ -84,3 +84,8 @@ end
 Elixir tem uma biblioteca padrão muito rica e bem documentada. A documentação está disponível online em [hexdocs.pm/elixir](https://hexdocs.pm/elixir/Kernel.html#content). Guarde esse link, pois você usará bastante!
 
 A maioria dos tipos de dados embutidos tem um módulo correspondente que oferece funções para trabalhar com esses tipos de dados, por exemplo, há o módulo `Integer` para inteiros, modúlo `String` para strings, módulo `List` para listas e assim por diante.
+
+Um módulo notável é o `Kernel`. Ele fornece os recursos básicos sobre os quais o restante da biblioteca padrão é contruída, como operadores aritméticos, macros de fluxo de controle (control-flow macros) e muito mais. As funções do módulo `Kernel` são importadas automaticamente, para que você possa usá-las sem o prefixo `Kernel.` 
+
+#### Code comments
+Os comentários podem ser usados para deixar notas para outros desenvolvedores que estão lendo o código-fonte. Os comentários de linha única no Elixir são precedidos por `#`.
