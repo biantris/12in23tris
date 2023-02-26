@@ -2,6 +2,23 @@
     12in23tris
 </h1>
 
+
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/biantris/braintris?color=56BEB8">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/biantris/braintris?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/biantris/braintris?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/biantris/braintris?color=56BEB8">
+
+  <img alt="Github issues" src="https://img.shields.io/github/issues/biantris/braintris?color=56BEB8" />
+
+  <img alt="Github forks" src="https://img.shields.io/github/forks/biantris/braintris?color=56BEB8" />
+
+  <img alt="Github stars" src="https://img.shields.io/github/stars/biantris/braintris?color=56BEB8" />
+</p>
+
 > Disclamer this repository is an introduction to several languages and a mix of English and Portuguese stuff 🤪
 
 The repository used to document the [Exercism](https://exercism.org/) challenge <b>#12in23</b>
