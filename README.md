@@ -11,8 +11,8 @@ The repository used to document the [Exercism](https://exercism.org/) challenge 
 #### Yearly Planner
 - <b>January</b>
     - Intimate Introduction
-- <b>February</b>
+- [February](https://github.com/biantris/12in23tris/tree/master/february)
     - Functional February
-    - Chosen language: <b>Elixir</b>
+    - Chosen language: [Elixir](https://github.com/biantris/12in23tris/blob/master/february/elixir/elixir-study.md)
 - <b>March</b>
     - Mechanial March
