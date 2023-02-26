@@ -19,6 +19,13 @@
   <img alt="Github stars" src="https://img.shields.io/github/stars/biantris/12in23tris?color=6e4a7e" />
 </p>
 
+<p align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=biantris_">
+        <img src="https://img.shields.io/twitter/follow/biantris_?style=social&logo=twitter"
+        alt="follow on Twitter">
+    </a>
+</p>
+
 > Disclamer this repository is an introduction to several languages and a mix of English and Portuguese stuff 🤪
 
 The repository used to document the [Exercism](https://exercism.org/) challenge <b>#12in23</b>
