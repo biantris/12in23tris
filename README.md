@@ -4,19 +4,19 @@
 
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/biantris/12in23tris?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/biantris/12in23tris?color=6e4a7e">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/biantris/12in23tris?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/biantris/12in23tris?color=6e4a7e">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/biantris/12in23tris?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/biantris/12in23tris?color=6e4a7e">
 
-  <img alt="License" src="https://img.shields.io/github/license/biantris/12in23tris?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/biantris/12in23tris?color=6e4a7e">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/biantris/12in23tris?color=56BEB8" />
+  <img alt="Github issues" src="https://img.shields.io/github/issues/biantris/12in23tris?color=6e4a7e" />
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/biantris/12in23tris?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/biantris/12in23tris?color=6e4a7e" />
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/biantris/12in23tris?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/biantris/12in23tris?color=6e4a7e" />
 </p>
 
 > Disclamer this repository is an introduction to several languages and a mix of English and Portuguese stuff 🤪
