@@ -2,12 +2,12 @@
 
 Elixir suporta muitas funções para trabalhar com bits encontrados no módulo <i>Bitwise</i>.
 
-- band/2: bitwise AND
-- bsl/2: bitwise SHIFT LEFT
-- bsr/2: bitwise SHIFT RIGHT
-- bxor/2: bitwise XOR
-- bor/2: bitwise OR
-- bnot/1: bitwise NOT
+- `band/2: bitwise AND`
+- `bsl/2: bitwise SHIFT LEFT`
+- `bsr/2: bitwise SHIFT RIGHT`
+- `bxor/2: bitwise XOR`
+- `bor/2: bitwise OR`
+- `bnot/1: bitwise NOT`
 
 Aqui está um exemplo de como usar uma função bit a bit:
 
