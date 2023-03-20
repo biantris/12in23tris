@@ -38,5 +38,6 @@ The repository used to document the [Exercism](https://exercism.org/) challenge 
 - [February](https://github.com/biantris/12in23tris/tree/master/february)
     - Functional February
     - Chosen language: [Elixir](https://github.com/biantris/12in23tris/blob/master/february/elixir/elixir-study.md)
-- <b>March</b>
+- [March]()
     - Mechanial March
+    - Chosen language: [Rust]()
